@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 26 14:04:50 CDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-015d-8049-8cf5-00000c7d2000 
+on database directory C:\Users\oglee\MyDB with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Java/JDK8x64/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b32
+user.dir=C:\Users\oglee\workspace\MarshallingObjectGraphs
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
