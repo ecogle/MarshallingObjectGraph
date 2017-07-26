@@ -4,5 +4,13 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="C:/eclispelink/eclipselink/jlib/eclipselink.jar" sourcepath="C:/eclispelink/eclipselink/jlib/eclipselink-src.zip"/>
 	<classpathentry kind="lib" path="C:/Java/JDK8x64/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/eclispelink/eclipselink/jlib/jpa/javax.persistence.source_2.1.1.v201509150925.jar"/>
+	<classpathentry kind="lib" path="C:/eclispelink/eclipselink/jlib/jpa/javax.persistence_2.1.1.v201509150925.jar"/>
+	<classpathentry kind="lib" path="C:/eclispelink/eclipselink/jlib/jpa/org.eclipse.persistence.jpa.modelgen.source_2.6.4.v20160829-44060b6.jar"/>
+	<classpathentry kind="lib" path="C:/eclispelink/eclipselink/jlib/jpa/org.eclipse.persistence.jpa.modelgen_2.6.4.v20160829-44060b6.jar"/>
+	<classpathentry kind="lib" path="C:/eclispelink/eclipselink/jlib/jpa/org.eclipse.persistence.jpars.source_2.6.4.v20160829-44060b6.jar"/>
+	<classpathentry kind="lib" path="C:/eclispelink/eclipselink/jlib/jpa/org.eclipse.persistence.jpars_2.6.4.v20160829-44060b6.jar"/>
+	<classpathentry kind="lib" path="C:/Java/JDK8x64/db/lib/derby.jar"/>
+	<classpathentry kind="lib" path="C:/Java/JDK8x64/db/lib/derbyclient.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
